@@ -6,7 +6,7 @@ This App shows an the reauthentication flow of Passbase in an React App. It was 
 
 ## Live Demo
 
-You can check out our hosted [Live Demo](https://passbase-reauth.vercel.app/)
+You can check out our hosted [Live Demo](https://passbase-reauth.herokuapp.com/)
 
 ## Run Yourself
 
